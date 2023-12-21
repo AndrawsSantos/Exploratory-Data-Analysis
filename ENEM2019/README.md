@@ -1,6 +1,5 @@
-# Exploratory Data Analysis Project
+# This folder contains a project focused on an exploratory data analysis approach.
 
-This repository contains a project focused on an exploratory data analysis approach.
 The analysis is centered around the ENEM 2019 dataset, which pertains to the Brazilian national high school exams used for university admissions.
 
 Here you can find:
