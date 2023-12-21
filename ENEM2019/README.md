@@ -1,4 +1,4 @@
-# This folder contains a project focused on an exploratory data analysis approach.
+# ENEM2019 Exploratory Data Analysis
 
 The analysis is centered around the ENEM 2019 dataset, which pertains to the Brazilian national high school exams used for university admissions.
 
