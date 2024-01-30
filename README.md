@@ -1,4 +1,4 @@
-# Exploratory Data Analysis projects
+# Exploratory Data Analysis Projects
 
 This repository contains a collection of Exploratory Data Analysis projects
 
